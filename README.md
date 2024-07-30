@@ -1,2 +1,2 @@
 # vertical-site
-vertical site pet progect on native JS
+vertical site pet project on native JS

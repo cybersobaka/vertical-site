@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+}
+
+.container {
+    max-width: 970px;
+    padding: 0 15px;
+    margin: 0 auto;
+}
+
+p {
+    color: rgb(111, 146, 126);
+    line-height: 1.8;
+
+}
+
+.header {}
+
+.container {}
+
+.logo {
+    font-size: 25px;
+    line-height: 1;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    color: lightblue;
+}
+
+.header__nav {}
